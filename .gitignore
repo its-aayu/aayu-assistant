@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+
+# Vosk models
+model-hi/
+model-en/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Wake word / Porcupine models
+porcupine/
